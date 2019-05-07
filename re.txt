@@ -1,6 +1,2 @@
 ﻿Git is a version control system sd .
 Git is free software axzc.4545
-Git has a mutable index called stage.
-54545
-4
-Creating a new branch is quick.
